@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: W3Layouts/gatsby-starter-delog
+  repo: KeshavChawla/Personal-Blog
 media_folder: static/assets
 public_folder: /assets
 collections:

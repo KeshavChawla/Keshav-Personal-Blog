@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
 import HeroHeader from "../components/heroHeader"
+import Navbar from 'react-bootstrap/Navbar'
 
 const IndexPage = ({
   data: {
@@ -19,15 +20,17 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>{site.siteMetadata.title}</title>
+        <title>{site.siteMetadata.image}</title>
+        <title>{site.siteMetadata.image}</title>
         <meta name="description" content={site.siteMetadata.description} />
-        {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}
       </Helmet>
+
       <HeroHeader/>
       <h2>Blog Posts &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
+  
     </Layout>
   )
 }

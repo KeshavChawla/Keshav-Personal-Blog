@@ -2,6 +2,7 @@ import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation"
 import 'prismjs/themes/prism-okaidia.css';
+import header_logo from "../../static/assets/keshav_mac_animoji.jpg"
 
 export default ({ children }) => {
   const data = useStaticQuery(
@@ -19,14 +20,18 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
+        <div className="animoji-innner">
+        <img className="animoji-header-image" src={header_logo} alt="Keshav Animoji Header Logo" />
         </div>
-        <Navigation />
+        <Link to="/">{data.site.siteMetadata.title}</Link>
+        </div>
+
       </header>
       {children}
       <footer className="site-footer">
         <p>&copy; 2020 Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://w3layouts.com">W3Layouts</a></p>
       </footer>
+          <Navigation />
     </div>
   )
 }

@@ -2,10 +2,10 @@
 template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
-thumbnail: /assets/image-5.jpg
+title: Dummy Content from CHANGE
+thumbnail: /assets/lossy-keshav-white-animoji.gif
 ---
-# No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
+# No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. THIS IS TEST !@#, I'm the Doctor. Don't call me the Rotmeister.
 
 I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
 

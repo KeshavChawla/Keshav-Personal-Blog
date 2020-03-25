@@ -1,10 +1,17 @@
 import React from "react"
+
 import Helmet from 'react-helmet';
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
 import HeroHeader from "../components/heroHeader"
 import Navbar from 'react-bootstrap/Navbar'
+
+
+import { Instagram } from 'react-content-loader'
+
+const MyInstagramLoader = () => <Instagram />
+
 
 const IndexPage = ({
   data: {
@@ -13,12 +20,14 @@ const IndexPage = ({
   },
 }) => {
 
+
   const Posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
     <Layout>
+
       <Helmet>
         <title>{site.siteMetadata.image}</title>
         <title>{site.siteMetadata.image}</title>
@@ -30,7 +39,7 @@ const IndexPage = ({
       <div className="grids">
         {Posts}
       </div>
-  
+
     </Layout>
   )
 }

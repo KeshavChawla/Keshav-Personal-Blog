@@ -9,6 +9,7 @@ export default () => (
             home {
               title
               description
+              descriptionsecond
             }
           }
         }
@@ -19,8 +20,8 @@ export default () => (
         <div className="headline">{data.site.siteMetadata.home.title}</div>
         <div className="primary-content">
           <p>{data.site.siteMetadata.home.description}</p>
+          <p>{data.site.siteMetadata.home.descriptionsecond}</p>
         </div>
-        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
       </div>
     )}
   />

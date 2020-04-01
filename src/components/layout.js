@@ -32,10 +32,11 @@ export default ({ children }) => {
       </header>
 
       {children}
+        <Navigation/>
       <footer className="site-footer">
         <p>Made with <a href="https://www.gatsbyjs.org/">Gatsby.js</a></p>
       </footer>
-          <Navigation />
+
     </div>
   )
 }

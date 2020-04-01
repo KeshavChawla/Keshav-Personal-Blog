@@ -12,8 +12,9 @@ module.exports = {
     description: `Keshav Chawla's personal blog.`,
     siteUrl: `https://blog.keshavchawla.com`,
     home: {
-      title: `Keshav Chawla`,
-      description: `Keshav's Blog`,
+      title: `Hi I'm Keshav!`,
+      description: `Here are a random collection of my thoughts`,
+      descriptionsecond: `Computing and Financial Management 2024 (Candidate)`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: ``
@@ -44,6 +45,18 @@ module.exports = {
         }],
       },
     },
+    {
+    resolve: `gatsby-plugin-manifest`,
+    options: {
+      name: `gatsby-starter-default`,
+      short_name: `starter`,
+      start_url: `/`,
+      background_color: `#663399`,
+      theme_color: `#663399`,
+      display: `minimal-ui`,
+      icon: `src/images/favicon.png`, // This path is relative to the root of the site.
+  }
+},
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

@@ -36,7 +36,7 @@ a {
   a {
     color: #888;
     text-decoration: none;
-    margin: 0 8px 0;
+    margin: 0 8px 15px;
     &[aria-current] {
       color: $primary-color;
       font-weight: 700;
@@ -64,7 +64,7 @@ a {
   text-transform: uppercase;
 }
 .hero-header {
-  padding: 0 0 64px;
+  padding: 0 0 2px;
   max-width: 980px;
 }
 .headline {
@@ -101,8 +101,8 @@ a {
 }
 .primary-content {
   font-size: 18px;
-  margin-bottom: 32px;
-  line-height: 1.5;
+  margin-bottom: 10px;
+  line-height: 1.2;
   font-weight: 300;
 }
 .post {
@@ -209,7 +209,7 @@ a {
 }
 .site-footer {
   text-align: center;
-  margin: 90px 0 16px;
+  margin: 20px 0 16px;
   color: #666;
   a {
     font-weight: 700;
@@ -257,11 +257,20 @@ a {
 .animoji-innner {
 
 }
+
+.button-pad {
+  padding-top: 20px;
+  margin: auto;
+  text-align: center;
+}
 /* Portrait and Landscape */
 @media only screen
 and (min-width: 768px) {
 .grids {
   grid-template-columns: 1fr 1fr;
+}
+.primary-content {
+  line-height: 0.5;
 }
 }
 @media only screen
@@ -274,4 +283,5 @@ and (min-width: 768px) {
     grid-template-columns: 1fr 1fr;
     grid-gap: 64px;
   }
+
 }

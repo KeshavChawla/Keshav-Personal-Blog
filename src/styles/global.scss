@@ -1,6 +1,9 @@
 $primary-color: #136FED;
 $primary-text-color: #fff;
 
+$secondary-color: #136FED;
+$secondary-text-color: #fff;
+
 html,
 body {
   margin: 0;
@@ -88,6 +91,17 @@ a {
     background-color: $primary-color;
     border-color: $primary-color;
     color: $primary-text-color;
+    &:hover {
+      background-color: #10072b;
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+  &.-secondary {
+    background-color: $secondary-color;
+    border-color: $secondary-color;
+    color: $secondary-text-color;
+    opacity: 80%;
     &:hover {
       background-color: #10072b;
       color: #fff;

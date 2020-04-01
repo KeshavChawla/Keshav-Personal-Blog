@@ -31,7 +31,6 @@ const IndexPage = ({
   return (
     <Layout>
 
-
       <Helmet>
         <title>{site.siteMetadata.image}</title>
         <title>{site.siteMetadata.image}</title>

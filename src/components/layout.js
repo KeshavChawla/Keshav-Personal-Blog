@@ -23,8 +23,6 @@ export default ({ children }) => {
       <header className="site-header">
 
         <div className="site-title">
-        <title>{data.site.siteMetadata.title}</title>
-
         <div className="animoji-innner">
         <img className="animoji-header-image" src={header_logo} alt="Keshav Animoji Header Logo" />
         </div>

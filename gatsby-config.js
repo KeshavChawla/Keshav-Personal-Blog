@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `Keshav Chawla`,
-    image: `something`,
+    t2: `Keshav Chawla's Blog`,
     description: `Keshav Chawla's personal blog.`,
     siteUrl: `https://blog.keshavchawla.com`,
     home: {
@@ -49,7 +49,7 @@ module.exports = {
     resolve: `gatsby-plugin-manifest`,
     options: {
       name: `Keshav's Blog`,
-      short_name: `starter`,
+      short_name: `Keshav`,
       start_url: `/`,
       background_color: `#663399`,
       theme_color: `#663399`,

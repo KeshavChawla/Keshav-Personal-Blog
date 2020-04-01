@@ -8,9 +8,11 @@ import HeroHeader from "../components/heroHeader"
 import Navbar from 'react-bootstrap/Navbar'
 
 
-import { Instagram } from 'react-content-loader'
+import ContentLoader, { Facebook } from 'react-content-loader'
 
-const MyInstagramLoader = () => <Instagram />
+
+const MyFacebookLoader = () => <Facebook />
+
 
 
 const IndexPage = ({
@@ -21,12 +23,14 @@ const IndexPage = ({
 }) => {
 
 
+
   const Posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
     <Layout>
+
 
       <Helmet>
         <title>{site.siteMetadata.image}</title>

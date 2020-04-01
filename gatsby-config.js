@@ -12,8 +12,8 @@ module.exports = {
     description: `Keshav Chawla's personal blog.`,
     siteUrl: `https://blog.keshavchawla.com`,
     home: {
-      title: `Hi! I'm Keshav`,
-      description: `Insert text here`,
+      title: `Keshav Chawla`,
+      description: `Keshav's Blog`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: ``
@@ -48,7 +48,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it
-        trackingId: "UA-30027142-1",
+        trackingId: "UA-162413723-1",
         head: true,
       }
     },

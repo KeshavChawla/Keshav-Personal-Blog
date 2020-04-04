@@ -3,6 +3,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "../components/navigation"
 import 'prismjs/themes/prism-okaidia.css';
 import header_logo from "../../static/assets/keshav_mac_animoji.jpg"
+import "katex/dist/katex.min.css"
 
 
 export default ({ children }) => {
@@ -34,7 +35,9 @@ export default ({ children }) => {
       {children}
         <Navigation/>
       <footer className="site-footer">
-        <p>Made with <a href="https://www.gatsbyjs.org/">Gatsby.js</a></p>
+        <p>Made with  <span role="img" aria-label="love">❤️</span>in <span role="img" aria-label="canada">🇨🇦</span>Toronto, ON. </p>
+
+        <p>Powered via <a href="https://www.gatsbyjs.org/">Gatsby.js</a></p>
       </footer>
 
     </div>

@@ -10,10 +10,10 @@ Build your own site with [GatsbyJS](https://www.gatsbyjs.org/docs/) and use [Net
 
 ## Run locally using the gatsby-cli
 To run locally first `gatsby develop` then `gatsby build` and `gatsby serve`
-Alternativly, you can also start the site locally with npm and visit [http://localhost:8000/](http://localhost:8000/).
+Alternativly, you can also start the site locally with npm and visit `http://localhost:[PORT-NUMBER]`
 
 ## Admin Portal
-The admin portal can be found locally at   `http://localhost:[PORT-NUMBER]/admin`
+The admin portal can be found locally at `http://localhost:[PORT-NUMBER]/admin`
 or on the actual site with [https://blog.keshavchawla.com/admin](https://blog.keshavchawla.com/admin).
 **OAuth** is done through Github.
 

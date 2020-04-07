@@ -6,8 +6,7 @@
 
 This site was built with GatsbyJS and Netlify CMS. The starter template is from [W3Layouts](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog/) and this repo is orignally forked from [W3Layouts/gatsby-starter-delog](https://github.com/W3Layouts/gatsby-starter-delog).
 
-Build your own site with [GatsbyJS](https://www.gatsbyjs.org/docs/).
-Use [Netlify as a CMS](https://www.netlifycms.org/).
+Build your own site with [GatsbyJS](https://www.gatsbyjs.org/docs/) and use [Netlify as a CMS](https://www.netlifycms.org/).
 
 ## Run locally using the gatsby-cli
 To run locally first `gatsby develop` then `gatsby build` and `gatsby serve`
@@ -23,3 +22,4 @@ or on the actual site with [https://blog.keshavchawla.com/admin](https://blog.ke
 + ~~Syntax Code Highlighting~~
 + Will implement a draft feature
 + Pagination
++ Newsletter Functionality 

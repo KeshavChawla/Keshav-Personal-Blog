@@ -46,7 +46,7 @@ I found CS 135 to be an incredibly interesting course, especially coming into it
 
 ### Code Highlighting
 
-```lisp
+```scheme
 ;; Functions as first class values
 (define (my-factorial x)
   (cond [(zero? x) 1]

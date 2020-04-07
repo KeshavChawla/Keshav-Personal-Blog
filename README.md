@@ -1,4 +1,4 @@
-[![Keshav Blog](https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg =200x)](https://keshavchawla.com/blog/)
+[![Keshav Blog](https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg) =200x](https://keshavchawla.com/blog/)
 
 # Keshav Chawla - Personal Blog
 

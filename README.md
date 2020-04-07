@@ -3,7 +3,7 @@
 </a>
 
 
-[# Keshav Chawla - Personal Blog] (https://keshavchawla.com/blog)
+# [Keshav Chawla - Personal Blog](https://keshavchawla.com/blog)
 
 This site was built with GatsbyJS and Netlify CMS. The starter template is from [W3Layouts](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog/).
 

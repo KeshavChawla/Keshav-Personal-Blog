@@ -1,11 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8ec719ad-c2f8-4529-b97d-e7561a9eaf33/deploy-status)](https://app.netlify.com/sites/delog-w3layouts/deploys)
+[![Keshav Blog](https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg)](https://keshavchawla.com/blog/)
 
-# Delog - Blog for Developer and Designer
-This simple website built with GatsbyJS and Netlify CMS. Deploys on netlify with single click. This Starter is sponsered by [W3Layouts](https://w3layouts.com).
+# Keshav Chawla - Personal Blog
 
-[![Delog - Gatsby Starter Demo](https://w3layouts.com/wp-content/uploads/2020/03/gatsby-starter.jpg)](https://delog-w3layouts.netlify.com/)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/W3Layouts/gatsby-starter-delog)
+This site was built with GatsbyJS and Netlify CMS. The starter template is from [W3Layouts](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog/).
 
 * Once you hit "Deploy to Netlify"
 * Connect Github
@@ -33,20 +30,5 @@ You need to change repo URL to your own `repo` at delog/static/admin/config.yml,
 * You can create, edit, update and delete like any CMS
 
 ## Editing Meta Data
-Goto `gatsby-config.js`. Here you can edit following details
-* Title
-* Description
-* Site URL
-* Homepage Title
-* Homepage Description
-* W3Layouts Contact form domain verification key
-* and google analytics tracking id
-
-I hope you build a great website with Delog. If you like it please spread the word, Feel free to contribute and raise a pull request :)
-
-For issues,feedback on enhancement or sharing your new awesome website built with delog. [Create New Issue](https://github.com/W3Layouts/delog/issues/new) Here
 
 ### Upcoming Features Roadmap
-- [ ] Pagination for Blog
-- [ ] Socail Icons
-# gatsby-starter-delog

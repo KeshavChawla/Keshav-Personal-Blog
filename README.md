@@ -2,36 +2,24 @@
 <img border="0" alt="KeshavBlog" src="https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg" width="140" height="140">
 </a>
 
-
 # [Keshav Chawla - Personal Blog](https://keshavchawla.com/blog)
 
-This site was built with GatsbyJS and Netlify CMS. The starter template is from [W3Layouts](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog/).
+This site was built with GatsbyJS and Netlify CMS. The starter template is from [W3Layouts](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog/) and this repo is orignally forked from [W3Layouts/gatsby-starter-delog](https://github.com/W3Layouts/gatsby-starter-delog).
 
-* Once you hit "Deploy to Netlify"
-* Connect Github
-* Enter Repository Name
-* And your site starts build process. After the build process your website is live
+Build your own site with [GatsbyJS](https://www.gatsbyjs.org/docs/).
+Use [Netlify as a CMS](https://www.netlifycms.org/).
 
-## Changing repositary URL for Netlify CMS access
-You need to change repo URL to your own `repo` at delog/static/admin/config.yml, for example `username/repo-name`
+## Run locally using the gatsby-cli
+To run locally first `gatsby develop` then `gatsby build` and `gatsby serve`
+Alternativly, you can also start the site locally with npm and visit [http://localhost:8000/](http://localhost:8000/).
 
-## Creating Github OAuth Client ID
-* Goto Github [Developer Settings](https://github.com/settings/developers)
-* **New OAuth** 
-* Enter Application name
-* Homepage URL as Netlify URL
-* And **Authorization callback URL** to `https://api.netlify.com/auth/done`)
-* Once Client ID and Secret token is generated configure same in [Netlify Access Control](#accessing-netlify-cms-admin) as described.
+## Admin Portal
+The admin portal can be found locally at   `http://localhost:[PORT-NUMBER]/admin`
+or on the actual site with [https://blog.keshavchawla.com/admin](https://blog.keshavchawla.com/admin).
+**OAuth** is done through Github.
 
-## Accessing Netlify CMS Admin
-* Goto your Netlify site admin
-* Goto **Access Control** > **OAuth** then **Install Provider** you need to select provider as `Github` as add `Client ID` and `Secret` 
-* Your Netlify CMS is ready. Goto you netlify site URL and append `/admin/`. for example `example.netlify.com/admin/`, You will see login with Github button.
-
-## Managing Blog Posts in Netlify CMS
-* Once logged in you will find all the blog post listed here.
-* You can create, edit, update and delete like any CMS
-
-## Editing Meta Data
-
-### Upcoming Features Roadmap
+## To Add:
++ ~~LaTeX support~~
++ ~~Syntax Code Highlighting~~
++ Will implement a draft feature
++ Pagination

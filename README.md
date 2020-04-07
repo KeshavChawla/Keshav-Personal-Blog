@@ -1,7 +1,5 @@
-[![Keshav Blog](https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg)](https://keshavchawla.com/blog/)
-
 <a href="https://keshavchawla.com/blog/">
-<img border="0" alt="KeshavBlog" src="https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg" width="100" height="100">
+<img border="0" alt="KeshavBlog" src="https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg" width="140" height="140">
 </a>
 
 

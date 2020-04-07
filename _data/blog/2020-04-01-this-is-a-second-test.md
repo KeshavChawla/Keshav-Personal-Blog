@@ -92,7 +92,7 @@ I personally like managerial account much more than financial accounting. With 1
 
 I loved this course! AFM 121 is basically a course that teaches basic excel. The content is probably the most useful/life-applicable course I have taken. The content based on time value of money, RRSPs vs TFSAs, and fixed income securities are things I know I will use for the rest of my life. I was not a fan of the marking scheme, but other than that, I thoroughly enjoyed the course and content.
 
-![Hult Competition](/assets/Grecco3.png "Pitching out venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition!")
+![Hult Competition](/assets/Grecco3.png "Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition!")
 
 ### **Midterms**
 

@@ -1,9 +1,9 @@
-<a href="https://keshavchawla.com/blog/">
+<a href="https://keshavchawla.com/blog">
 <img border="0" alt="KeshavBlog" src="https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg" width="140" height="140">
 </a>
 
 
-# Keshav Chawla - Personal Blog
+# [Keshav Chawla - Personal Blog] (https://keshavchawla.com/blog)
 
 This site was built with GatsbyJS and Netlify CMS. The starter template is from [W3Layouts](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog/).
 

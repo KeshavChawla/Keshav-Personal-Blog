@@ -45,35 +45,19 @@ My favourite first-year math class, probably because this course was just a thou
 I found CS 135 to be an incredibly interesting course, especially coming into it with prior coding knowledge. Racket, the language used in CS 135, is entirely based on functional programming. That means, no loops only recursion, no variables, and functions are passed first-class values. Racket is so eye-opening as it completely re-invented what I thought about programming.
 
 ### Code Highlighting
-```javascript
-import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
-import Navigation from "../components/navigation"
 
-export default ({ children }) => {
-  const data = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `
-  )
-  return (
-    <div className="site-wrapper">
-      <header className="site-header">
-        <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
-        </div>
-        <Navigation />
-      </header>
-      {children}
-    </div>
-  )
-}
+```lisp
+;; Functions as first class values
+(define (my-factorial x)
+  (cond [(zero? x) 1]
+        [else (* x (my-factorial (sub1 x)))]))
+
+(define (my-multiplier x)
+  (λ (y) (* x y)))
+  
+(define multiply-by-3 (my-multiplier 3))
+(check-expect (my-factorial 4) 24)
+(check-expect (multiply-by-3 (my-factorial 4)) 72)
 ```
 
 #### **AFM 101 - Introduction to Financial Accounting**

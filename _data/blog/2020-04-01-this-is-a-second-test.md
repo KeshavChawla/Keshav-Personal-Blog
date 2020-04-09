@@ -12,7 +12,7 @@ thumbnail: /assets/IMG_2287.JPG
 
 ## ***My first year at the University of Waterloo:***
 
-<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:400px;"/>
+<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:300px;"/>
 
 **UW Orientation Week 2019 https://bit.ly/3e8Nn10**
 
@@ -100,6 +100,8 @@ I loved this course! AFM 121 is basically a course that teaches basic excel. The
 
 <img src="/assets/Grecco3.png" alt="UW Hult" style="width:700px;"/>
 
+![UW Hult](/assets/Grecco3.png "*Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition")
+
 **Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition!**
 
 ### **Midterms**
@@ -122,6 +124,8 @@ In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I 
 #### **Residence**
 
 <img src="/assets/CMH-Room copy.jpg" alt="My room in CMH" style="width:700px;"/>
+
+![My room in CMH](/assets/CMH-Room copy.jpg "My room in CMH")
 
 **My room in Claudette Millar Hall (CMH)**
 

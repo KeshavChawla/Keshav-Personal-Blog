@@ -28,7 +28,7 @@ UW has pushed me far beyond what I believed was possible. I've had many long nig
 
 Orientation Week is probably the most blissful part of the first year. While not in the itinerary, getting lost around campus, meeting random people, and sporadic nightly games of manhunt all frequently occurred.
 
-Orientation is really just three days of short mini-games and lectures on what to expect for the next four years. The games were fun-ish but the real value of orientation was the social aspect to meet other people in your faculty/program and other undergraduates. I will say, 2019 Math Orientation team names were quite amusing; some of my personal favourites include: Babooleans, Ine-koala-ties, Orangu(sin/cos), mx+bees, and $$/pi$$-ranhas.
+Orientation is really just three days of short mini-games and lectures on what to expect for the next four years. The games were fun-ish but the real value of orientation was the social aspect to meet other people in your faculty/program and other undergraduates. I will say, 2019 Math Orientation team names were quite amusing; some of my personal favourites include: Babooleans, Ine-koala-ties, Orangu(sin/cos), mx+bees, and $$\pi$$-ranhas.
 
 ### **First Week of Classes**
 

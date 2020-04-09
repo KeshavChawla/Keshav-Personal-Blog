@@ -12,7 +12,7 @@ thumbnail: /assets/IMG_2287.JPG
 
 ## ***My first year at the University of Waterloo:***
 
-<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:300px;"/>
+<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:350px;"/>
 
 **UW Orientation Week 2019 https://bit.ly/3e8Nn10**
 

@@ -98,8 +98,6 @@ I personally like managerial account much more than financial accounting. With 1
 
 I loved this course! AFM 121 is basically a course that teaches basic excel. The content is probably the most useful/life-applicable course I have taken. The content based on time value of money, RRSPs vs TFSAs, and fixed income securities are things I know I will use for the rest of my life. I was not a fan of the marking scheme, but other than that, I thoroughly enjoyed the course and content.
 
-<img src="/assets/Grecco3.png" alt="UW Hult" style="width:700px;"/>
-
 ![UW Hult](/assets/Grecco3.png "*Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition")
 
 **Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition!**
@@ -122,8 +120,6 @@ Buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca
 In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I didn’t think the look of a building would have a significant impact on my study habits or my attitude, but after spending hours on end each day in buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca.centre-for-teaching-excellence/files/styles/body-500px-wide/public/uploads/images/mc_building.png?itok=E7vxl5Cs), I see the importance of a soothing environment.
 
 #### **Residence**
-
-<img src="/assets/CMH-Room copy.jpg" alt="My room in CMH" style="width:700px;"/>
 
 ![My room in CMH](/assets/CMH-Room copy.jpg "My room in CMH")
 

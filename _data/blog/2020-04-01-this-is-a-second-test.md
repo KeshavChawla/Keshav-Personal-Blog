@@ -110,7 +110,7 @@ I found midterms to be very similar to high school exams. I think of midterms as
 
 Naturally, the most stressful part of the term but also the most satisfying to finish. Final exams were definitely more challenging than midterms and combined that with the short timeframe from one exam to the next doesn’t make it any better. Final exams are a necessary evil. All I can suggest on this subject is to start preparing early and thoroughly.
 
-#### **The Waterloo Campus**
+### **The Waterloo Campus**
 
 To put it simply: ugly.\
 Well, to give Waterloo credit, some of the buildings are actually quite beautiful.
@@ -119,7 +119,7 @@ Buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca
 
 In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I didn’t think the look of a building would have a significant impact on my study habits or my attitude, but after spending hours on end each day in buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca.centre-for-teaching-excellence/files/styles/body-500px-wide/public/uploads/images/mc_building.png?itok=E7vxl5Cs), I see the importance of a soothing environment.
 
-#### **Residence**
+### **Residence**
 
 ![My room in CMH](/assets/CMH-Room copy.jpg "My room in CMH")
 
@@ -129,8 +129,10 @@ I was lucky enough to get my first choice of residence Claudette Millar Hall (CM
 
 #### **The CFM Program**
 
+![CFM Mints](/assets/CFM_Mints.jpg "CFM Mints")
+
 I’ve enjoyed the balance between finance/accounting vs the math/computer science courses. I do enjoy the CS courses more than the finance courses, but I still maintain an interest in both. I do see an added value with the CFM degree as compared to a general CS degree or even the double degree BBA/BCS degree. With CFM, the added value comes in with the small program (easier to put faces to a name), upper-year mentorship, and close community.
 
-#### \[TODO: ADD REST!]
+#### Final Thoughts
 
 \-----

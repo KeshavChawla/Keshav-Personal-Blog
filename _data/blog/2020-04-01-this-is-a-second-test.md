@@ -14,6 +14,9 @@ thumbnail: /assets/IMG_2287.JPG
 
 ![UW Orientation Week 2019](/assets/UWOrient1.jpg "UW Orientation Week 2019 https://bit.ly/3e8Nn10" = 100x200)
 
+<img src="/assets/UWOrient1.jpg" alt="drawing" style="width:250px;"/>
+
+
 It's April, classes for the winter have officially ended. While I still have two online exams to write, this will mark the completion of my 1B term as a Computing and Financial Management (CFM) student here at the University of Waterloo. Reflecting back on this past year, I've realized how valuable (and expensive) this last year has been.
 
 UW has pushed me far beyond what I believed was possible. I've had many long nights, stressful assignments, and a (healthy) dosage anxiety-inducing exams. In combination, I've had many laughs, social nights, and successes.

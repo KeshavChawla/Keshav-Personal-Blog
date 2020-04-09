@@ -12,7 +12,8 @@ thumbnail: /assets/IMG_2287.JPG
 
 ## ***My first year at the University of Waterloo:***
 
-<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:250px;"/>
+<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:400px;"/>
+
 UW Orientation Week 2019 https://bit.ly/3e8Nn10
 
 It's April, classes for the winter have officially ended. While I still have two online exams to write, this will mark the completion of my 1B term as a Computing and Financial Management (CFM) student here at the University of Waterloo. Reflecting back on this past year, I've realized how valuable (and expensive) this last year has been.
@@ -21,7 +22,9 @@ UW has pushed me far beyond what I believed was possible. I've had many long nig
 
 ### **Orientation Week**
 
-![UW Orientation Week Dance](/assets/UWOrient2.jpg "The Orientation Math Dance" 100)
+<img src="/assets/UWOrient2.jpg" alt="The Orientation Math Dance" style="width:300px;"/>
+
+The Orientation Math Dance
 
 Orientation Week is probably the most blissful part of the first year. While not in the itinerary, getting lost around campus, meeting random people, and sporadic nightly games of manhunt all frequently occurred.
 
@@ -69,7 +72,11 @@ This course was basically a carbon copy of Grade 11 and 12 HS accounting. I foun
 
 A course on basic business knowledge, found it be similar to grade 10 HS business. While the course was fundamentals and sleep-inducing, the course staff were great. It was nice to take 132 since it was a stark difference to most of my other classes. Most of the math courses were practice and conceptually heavy, whereas AFM 132 was memorization heavy - I like that balance.
 
-![Hack The North 2019](/assets/HTN-UW.jpg "Hack The North 2019!")
+<img src="/assets/HTN-UW.jpg" alt="Hack The North 2019" style="width:300px;"/>
+
+Hack The North 2019!
+
+
 
 ### **1B**
 
@@ -93,7 +100,9 @@ I personally like managerial account much more than financial accounting. With 1
 
 I loved this course! AFM 121 is basically a course that teaches basic excel. The content is probably the most useful/life-applicable course I have taken. The content based on time value of money, RRSPs vs TFSAs, and fixed income securities are things I know I will use for the rest of my life. I was not a fan of the marking scheme, but other than that, I thoroughly enjoyed the course and content.
 
-![Hult Competition](/assets/Grecco3.png "Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition!")
+<img src="/assets/Grecco3.png" alt="UW Hult" style="width:500px;"/>
+
+Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition!
 
 ### **Midterms**
 
@@ -114,7 +123,9 @@ In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I 
 
 #### **Residence**
 
-![CMH Room](/assets/CMH-Room copy.jpg "My room in Claudette Millar Hall (CMH)")
+<img src="/assets/CMH-Room copy.jpg" alt="My room in CMH" style="width:500px;"/>
+
+My room in Claudette Millar Hall (CMH)
 
 I was lucky enough to get my first choice of residence Claudette Millar Hall (CMH). The building and rooms were gorgeous, and the views I woke up to every day were fantastic (definitely going to miss that). I think the best part of the residence experience was the social aspect. Meeting people in the same faculty makes understanding concepts and learning exponentially easier. In general, having the chance to meet and interact with many individuals made the year go by much quicker.
 

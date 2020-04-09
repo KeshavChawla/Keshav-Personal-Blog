@@ -12,7 +12,7 @@ thumbnail: /assets/IMG_2287.JPG
 
 ## ***My first year at the University of Waterloo:***
 
-![UW Orientation Week 2019](/assets/UWOrient1.jpg "UW Orientation Week 2019 https://bit.ly/3e8Nn10")
+![UW Orientation Week 2019](/assets/UWOrient1.jpg "UW Orientation Week 2019 https://bit.ly/3e8Nn10" = 100x200)
 
 It's April, classes for the winter have officially ended. While I still have two online exams to write, this will mark the completion of my 1B term as a Computing and Financial Management (CFM) student here at the University of Waterloo. Reflecting back on this past year, I've realized how valuable (and expensive) this last year has been.
 
@@ -20,7 +20,7 @@ UW has pushed me far beyond what I believed was possible. I've had many long nig
 
 ### **Orientation Week**
 
-![UW Orientation Week Dance](/assets/UWOrient2.jpg "The Orientation Math Dance")
+![UW Orientation Week Dance](/assets/UWOrient2.jpg "The Orientation Math Dance" 100)
 
 Orientation Week is probably the most blissful part of the first year. While not in the itinerary, getting lost around campus, meeting random people, and sporadic nightly games of manhunt all frequently occurred.
 

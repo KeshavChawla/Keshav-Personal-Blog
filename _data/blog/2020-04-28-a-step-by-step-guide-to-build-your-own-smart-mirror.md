@@ -27,7 +27,7 @@ In July of 2017, I stumbled across [this video](https://youtu.be/sh2EJzplkpM) by
 
 I recommend the Raspberry Pi 3B+ or 4 based on their sheer power and ease of use when installing node dependencies and the MagicMirror² platform. Feel free to use an older Raspberry Pi or the Pi Zero, but expect additional hoops to jump through.
 
-Unquestionably, the hardest item to find to build a MagicMirror is a two-way mirror itself. These mirrors work by being reflective (like a normal mirror) on one side and transparent on the other. “The half-silvered surface will reflect about half the light that strikes its surface while letting the other half go straight through.”¹ I was able to find a large two-way mirror on Kijiji for about $$$50 and then got it polished and cut at a glass and mirror shop for an additional $$$$$20.
+Unquestionably, the hardest item to find to build a MagicMirror is a two-way mirror itself. These mirrors work by being reflective (like a normal mirror) on one side and transparent on the other. “The half-silvered surface will reflect about half the light that strikes its surface while letting the other half go straight through.”¹ I was able to find a large two-way mirror on Kijiji for about $\$$50 and then got it polished and cut at a glass and mirror shop for an additional $\$$20.
 
 The USB microphone and extension cable will come in handy later when we install the Google Assistant. Optional, of course, but well worth the additional hassle.
 
@@ -221,7 +221,6 @@ var config = {
 if (typeof module !== "undefined") {
   module.exports = config;
 }
-
 ```
 
 ## Have fun building your mirror!
@@ -230,6 +229,4 @@ If you encounter technical issues/facing difficulty head on over to \[MagicMirro
 
 <hr>
 
-\[1]: [“How do one-way mirrors work?” 12 July 2000.
-HowStuffWorks.com.](https://science.howstuffworks.com/question421.htm)
-retrieved 27 July 2019
+\[1]: [“How do one-way mirrors work?” 12 July 2000. HowStuffWorks.com.](https://science.howstuffworks.com/question421.htm) retrieved 27 July 2019

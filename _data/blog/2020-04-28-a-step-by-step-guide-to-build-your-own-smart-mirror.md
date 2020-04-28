@@ -224,11 +224,12 @@ if (typeof module !== "undefined") {
 
 ```
 
-\## Have fun building your mirror!
+## Have fun building your mirror!
 
 If you encounter technical issues/facing difficulty head on over to \[MagicMirror Forums](https://forum.magicmirror.builders/)
 
 <hr>
 
-\[1]: “How do one-way mirrors work?” 12 July 2000.\
-HowStuffWorks.com. <<https://science.howstuffworks.com/question421.htm>> 27 July 2019
+\[1]: [“How do one-way mirrors work?” 12 July 2000.
+HowStuffWorks.com.](https://science.howstuffworks.com/question421.htm)
+retrieved 27 July 2019

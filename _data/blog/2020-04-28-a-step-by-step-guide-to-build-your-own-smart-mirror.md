@@ -225,7 +225,7 @@ if (typeof module !== "undefined") {
 
 ## Have fun building your mirror!
 
-If you encounter technical issues/facing difficulty head on over to the \[MagicMirror Forums](https://forum.magicmirror.builders/)
+If you encounter technical issues/facing difficulty head on over to the [MagicMirror Forums](https://forum.magicmirror.builders/)
 
 <hr>
 

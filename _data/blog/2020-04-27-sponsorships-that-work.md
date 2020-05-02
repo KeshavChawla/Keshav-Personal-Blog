@@ -3,11 +3,13 @@ template: BlogPost
 path: /sponsorships-that-work
 date: 2018-05-02T13:00:00.000Z
 title: Sponsorships That Work
-thumbnail: /assets/sponsorships_header_jpg.jpg
+thumbnail: /assets/sponsorships_header_crop.jpg
 ---
 *I originally wrote this article on LinkedIn on May 2nd, 2018 and have since updated and transferred it over to this blog.*
 
 <hr>
+
+![Sponsorships That Work](/assets/sponsorships_header_jpg.jpg "Sponsorships That Work")
 
 I decided to write this article partly because on occasion I'll get a message from a friend asking how we got XYZ company to sponsor our event, but also because I want to add some value to some of the youth startups and organizations out there.
 
@@ -46,8 +48,6 @@ Here are some tips I have learned from my experiences when it comes to obtaining
 9. **Find Opportunities**
 
    There are so many different opportunities and chances to receive donations the question is whether or not you are looking for them. Ask friends, families, employers, acquaintances for help. Even asking other organizations or event organizers can prove really helpful. To help you get started, I have linked [Y2 Entrepreneurship Labs](http://y2labs.co/) Resources for Teens and Pre-Teens: <http://bit.ly/Y2LABS-RESOURCES>. It has helped me, and I hope it can help you too. Reach out to [Omicron](http://omcn.tech) too, their whole goal is to help youth startups and organizations receive the support they need.
-
-   <hr>
 
    At the end of the day, building strong relationships and creating value for sponsors is what matters. Follow your mission and keep those two things in mind and you should be golden.
 

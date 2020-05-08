@@ -3,7 +3,7 @@ template: BlogPost
 path: /toronto-tech-scene
 date: 2017-08-10T13:00:00.000Z
 title: Toronto's Tech Scene does not get enough credit for all of its innovation.
-thumbnail: /assets/toronto_tech_scene_header.jpeg
+thumbnail: /assets/toronto-tech-profile-pic.jpg
 ---
 *I originally wrote this article on LinkedIn on August 10th, 2017 and have since updated and transferred it over to this blog.*
 

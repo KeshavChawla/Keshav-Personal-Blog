@@ -3,7 +3,7 @@ template: BlogPost
 path: /magic-mirror-guide
 date: 2019-08-08T13:00:00.000Z
 title: A Step by Step Guide to Build your own Smart Mirror
-thumbnail: /assets/magic.jpeg
+thumbnail: /assets/mm-cover-pic copy.jpg
 metaDescription: A step by step guide to building your own Magic Mirror.
 ---
 ![Keshav Magic Mirror](/assets/magic.jpeg "Keshav Magic Mirror")

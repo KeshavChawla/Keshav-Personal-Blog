@@ -3,7 +3,7 @@ template: BlogPost
 path: /sponsorships-that-work
 date: 2018-05-02T13:00:00.000Z
 title: Sponsorships That Work
-thumbnail: /assets/sponsorships_header_crop.jpg
+thumbnail: /assets/sponsorship-profile-pic.jpg
 ---
 *I originally wrote this article on LinkedIn on May 2nd, 2018 and have since updated and transferred it over to this blog.*
 

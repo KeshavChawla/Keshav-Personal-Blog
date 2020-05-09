@@ -34,7 +34,11 @@ Probably the easiest week for the rest of my undergrad, but adjusting to Uni lif
 
 #### **Math 135 - Algebra for Honours Mathematics**
 
-I personally didn't like this course until after I finished it. I struggled for the first couple of weeks, trying to grasp my head around different proof techniques. Math 135 taught me how to look at problems from a different perspective. One day, after the first two months, something just clicked, and I was able to grasp the proofs easier than before. My favourite part of this whole course was the unit spent on encoding and decrypting the [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(cryptosystem)).
+I personally didn't like this course until after I finished it. I struggled for the first couple of weeks, trying to grasp my head around different proof techniques. Math 135 taught me how to look at problems from a different perspective. 
+
+If you are like me, you will find solving proofs to be challenging. After two months, on one random day, something just clicked, and the proofs became more natural than before. Most people go through this "It just makes sense" phase too. Personally, I don't think this is something that can occur with exposure to content or practice - it's just a matter of time to understand the logic.
+
+Math 135 does introduce a collection of some exciting concepts, including Set theory, Rings, and the Riemann Hypothesis. My favourite part of this whole course was the unit spent on encoding and decrypting the [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(cryptosystem)).
 
 #### **Math 137 - Calculus 1 for Honours Mathematics**
 

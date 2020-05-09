@@ -42,7 +42,7 @@ Math 135 does introduce a collection of some exciting concepts, including Set th
 
 #### **Math 137 - Calculus 1 for Honours Mathematics**
 
-My favourite first-year math class, probably because this course was just a thousand delta-epsilon proofs with a couple of crucial proofs and theorems here and there. I found this course to be very similar to grade 12 calculus - perhaps the reason why I found it more relaxed than my other classes.
+My favourite first-year math class, probably because this course was just a thousand delta-epsilon proofs with a couple of concepts and theorems here and there. I found this course to be very similar to grade 12 calculus - perhaps this is the reason why I found it more relaxed than my other classes.
 
 Some courses are very mechanical, that is, plug and chug. If you can find yourself mastering one fundamental concept, like delta-epsilon proofs, it makes the rest of the course magnitudes easier to understand
 

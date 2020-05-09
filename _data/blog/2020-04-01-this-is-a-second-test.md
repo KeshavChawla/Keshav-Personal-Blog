@@ -2,7 +2,7 @@
 template: BlogPost
 path: /first-year-at-UW
 date: 2020-04-06T13:02:00.000Z
-title: 'My First Year at the University of Waterloo: Tips to incoming undergraduates '
+title: 'My first year at the University of Waterloo: Tips to incoming undergraduates '
 thumbnail: /assets/IMG_2287.JPG
 ---
 > *“But I don’t want to go among mad people,” Alice remarked.\

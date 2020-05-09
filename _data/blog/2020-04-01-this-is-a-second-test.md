@@ -44,6 +44,8 @@ Math 135 does introduce a collection of some exciting concepts, including Set th
 
 My favourite first-year math class, probably because this course was just a thousand delta-epsilon proofs with a couple of crucial proofs and theorems here and there. I found this course to be very similar to grade 12 calculus - perhaps the reason why I found it more relaxed than my other classes.
 
+Some courses are very mechanical, that is, plug and chug. If you can find yourself mastering one fundamental concept, like delta-epsilon proofs, it makes the rest of the course magnitudes easier to understand
+
 #### **CS 135 - Designing Functional Programs**
 
 I found CS 135 to be an incredibly interesting course, especially coming into it with prior coding knowledge. Racket, the language used in CS 135, is entirely based on functional programming. That means, no loops only recursion, no variables, and functions are passed first-class values. Racket is so eye-opening as it completely re-invented what I thought about programming.

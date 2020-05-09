@@ -2,7 +2,7 @@
 template: BlogPost
 path: /first-year-at-UW
 date: 2020-04-06T13:02:00.000Z
-title: 'My First Year at the University of Waterloo: A Recap'
+title: 'My First Year at the University of Waterloo: Tips to incoming undergraduates '
 thumbnail: /assets/IMG_2287.JPG
 ---
 > *“But I don’t want to go among mad people,” Alice remarked.\
@@ -12,29 +12,25 @@ thumbnail: /assets/IMG_2287.JPG
 
 ## ***My first year at the University of Waterloo:***
 
-<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:350px;"/>
+I have officially completed my second term at the University of Waterloo and my first year as a Computing and Financial Management (CFM) student here. I thought I would take a couple of moments to reflect on the past year, the courses I've taken, and what I've realized during the last eight months. I've realized how valuable (and expensive) this last year has been. UW has pushed me far beyond what I believed was possible. I've had many long nights, stressful assignments, and a (healthy) dosage anxiety-inducing exams. In combination, I've had many laughs, social nights, and successes.
 
-**UW Orientation Week 2019 https://bit.ly/3e8Nn10**
+### 1. Attend Orientation
 
-It's April, classes for the winter have officially ended. While I still have two online exams to write, this will mark the completion of my 1B term as a Computing and Financial Management (CFM) student here at the University of Waterloo. Reflecting back on this past year, I've realized how valuable (and expensive) this last year has been.
-
-UW has pushed me far beyond what I believed was possible. I've had many long nights, stressful assignments, and a (healthy) dosage anxiety-inducing exams. In combination, I've had many laughs, social nights, and successes.
-
-### **Orientation Week**
+<img src="/assets/UWOrient1.jpg" alt="UW Orientation Week 2019" style="width:403px;"/>
 
 <img src="/assets/UWOrient2.jpg" alt="The Orientation Math Dance" style="width:300px;"/>
 
-**The Orientation Math Dance**
+**UW Orientation Week 2019 https://bit.ly/3e8Nn10**
 
 Orientation Week is probably the most blissful part of the first year. While not in the itinerary, getting lost around campus, meeting random people, and sporadic nightly games of manhunt all frequently occurred.
 
 Orientation is really just three days of short mini-games and lectures on what to expect for the next four years. The games were fun-ish but the real value of orientation was the social aspect to meet other people in your faculty/program and other undergraduates. I will say, 2019 Math Orientation team names were quite amusing; some of my personal favourites include: Babooleans, Ine-koala-ties, Orangu(sin/cos), mx+bees, and $$\pi$$-ranhas.
 
-### **First Week of Classes**
+### **2. First Week of Classes**
 
-Probably the easiest week for the rest of my undergrad, but adjusting to Uni life probably made it the hardest. Probably the highlight of this week was attempting (and failing) at solving my first couple of proofs.
+Probably the easiest week for the rest of my undergrad, but adjusting to Uni life + anxiety + excitement result in different reactions for different people. Probably the highlight of this week was attempting (and failing) at solving my first couple of proofs. Things will be hectic during this time, but the dust will settle. Just remember that this is not the time to slack off. Get ahead on courses and stay on top of everything - you will want a running start for the inevitable time when everything starts catching up.
 
-### **1A**
+### **3. Reflecting on my 1A Courses**
 
 #### **Math 135 - Algebra for Honours Mathematics**
 

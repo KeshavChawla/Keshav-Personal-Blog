@@ -121,15 +121,15 @@ Math Endowment Fund - It's a neat experience to see where the money from the mat
 
 UW DECA - I took the opportunity to continue my experience of high school DECA but reduced the amount of training. If anything, UW DECA was a great way for me to relax and refresh myself. 
 
-### **Midterms**
+### **5. Midterms**
 
 I found midterms to be very similar to high school exams. I think of midterms as an excellent litmus test to determine my standing in a course. In all my courses, I found that the rank of my midterm marks, that is, my courses ranked based on my midterm marks from highest to lowest, matched exactly to my courses ranked by final mark. I think this is for two reasons, partially due to the fact that many midterms have substantial weight (15% - 30%), which contributes to the final mark. And secondly, and what I think is more consequential, it’s a good indication of how much of the content you actually know. Even if the latter half of the course, post-midterm, is harder than the first half (which it often is), I believe the midterm is a sound basis to determine your conceptional understanding of the course.
 
-### **Final Exams**
+### **6. Final Exams**
 
 Naturally, the most stressful part of the term but also the most satisfying to finish. Final exams were definitely more challenging than midterms and combined that with the short timeframe from one exam to the next doesn’t make it any better. Final exams are a necessary evil. All I can suggest on this subject is to start preparing early and thoroughly.
 
-### **The Waterloo Campus**
+### **7. The Waterloo Campus**
 
 To put it simply: ugly.\
 Well, to give Waterloo credit, some of the buildings are actually quite beautiful.
@@ -138,7 +138,7 @@ Buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca
 
 In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I didn’t think the look of a building would have a significant impact on my study habits or my attitude, but after spending hours on end each day in buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca.centre-for-teaching-excellence/files/styles/body-500px-wide/public/uploads/images/mc_building.png?itok=E7vxl5Cs), I see the importance of a soothing environment.
 
-### **Residence**
+### **8. Residence**
 
 ![My room in CMH](/assets/CMH-Room copy.jpg "My room in CMH")
 
@@ -146,7 +146,7 @@ In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I 
 
 I was lucky enough to get my first choice of residence Claudette Millar Hall (CMH). The building and rooms were gorgeous, and the views I woke up to every day were fantastic (definitely going to miss that). I think the best part of the residence experience was the social aspect. Meeting people in the same faculty makes understanding concepts and learning exponentially easier. In general, having the chance to meet and interact with many individuals made the year go by much quicker.
 
-#### **The CFM Program**
+### **9. The CFM Program**
 
 ![CFM Mints](/assets/CFM_Mints.jpg "CFM Mints")
 

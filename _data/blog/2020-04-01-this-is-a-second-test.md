@@ -73,25 +73,29 @@ As an aside, diving into the world of [Racket macros](http://www.greghendershott
 
 #### **AFM 101 - Introduction to Financial Accounting**
 
-This course was basically a carbon copy of Grade 11 and 12 HS accounting. I found that the work was minimal and menial. Ironically, the one part about the course I did enjoy was the (not testable) general finance knowledge, sometimes discussed in the first 10 minutes of class.
+This course was basically a carbon copy of Grade 11 and 12 HS accounting. I found that the work was minimal and menial. Ironically, the one part about the course I did enjoy was the (not testable) general finance knowledge, sometimes discussed in the first 10 minutes of class. Not much else to say about AFM 101.
 
 #### **AFM 132 - Introduction to Business Stages**
 
 A course on basic business knowledge, found it be similar to grade 10 HS business. While the course was fundamentals and sleep-inducing, the course staff were great. It was nice to take 132 since it was a stark difference to most of my other classes. Most of the math courses were practice and conceptually heavy, whereas AFM 132 was memorization heavy - I like that balance.
 
+**Quick observation:**
+
+I found AFM 101 and AFM 132 to be the easiest first year AFM courses and from general consensus from upper year students these two courses are on the easier end of the spectrum of all AFM courses. Don't slack off in these courses - 101 and 132 should be the courses that should set your SMAV up to be in the comfortable zone. 
+
 <img src="/assets/HTN-UW.jpg" alt="Hack The North 2019" style="width:300px;"/>
 
 **Hack The North 2019!**
 
-### **1B**
+### **4. Reflecting on my 1B Courses**
 
 #### **Math 136 - Linear Algebra 1 for Honours Mathematics**
 
-This course started off right where Grade 12 Calculus and Vectors ended off and then quickly ramped up to systems of linear equations, vector spaces, linear maps, and matrices. I loved the content taught but hated the assessments (a common theme I’m finding in most of my courses). My mark definitely did not reflect my enthusiasm, but luckily consistent interest up until the very end did save my mark.
+This course started off right where Grade 12 Calculus and Vectors ended off and then quickly ramped up to systems of linear equations, vector spaces, linear maps, and matrices. I loved the content taught but loathe the assessments (a common theme I’m finding in most of my courses). My mark definitely did not reflect my enthusiasm, but luckily consistent interest up until the very end did save my mark.
 
 #### **Math 138 - Calculus 2 For Honours Mathematics**
 
-As a continuation of Math 137, I thoroughly enjoyed this course as well. The midterm was not fun, but the rest of the course was. 138 was also the one class in which I only looked at the course notes a handful of times. I found the instructor resources and practice assignments to be great to learn the course content.
+As a continuation of Math 137, I thoroughly enjoyed this course as well. The midterm was not fun, but the rest of the course was. 138 was also the one class in which I only looked at the course notes a handful of times. I found the instructor resources and practice assignments to be great to learn the course content. If I could go back, I would start preparing for the Math 138 midterm even earlier. It's a common theme the past couple years that the 138 midterm seems to be "hard" part of the course.
 
 #### **CS 136 - Elementary Algorithm Design and Data Abstraction**
 
@@ -99,15 +103,23 @@ A stark difference to CS 135; CS 136 is based on C rather than Racket. I found C
 
 #### **AFM 102 - Introduction to Managerial Accounting**
 
-I personally like managerial account much more than financial accounting. With 102, I was at least able to see the bigger picture and the applications to managerial accounting. But like with AFM 101, I still found 102 to be my least likeable course this term. I guess I am just not a fan of accounting courses. Luckily, I don't have to take anymore accounting courses for my degree requirements.
+I personally like managerial account much more than financial accounting. With 102, I was at least able to see the bigger picture and the applications to managerial accounting. But like with AFM 101, I still found 102 to be my least likeable course this term. I guess I am just not a fan of accounting courses. Luckily, CFM doesn't have to take anymore accounting courses for my degree requirements.
 
 #### **AFM 121 - Introduction to Global Financial Markets**
 
-I loved this course! AFM 121 is basically a course that teaches basic excel. The content is probably the most useful/life-applicable course I have taken. The content based on time value of money, RRSPs vs TFSAs, and fixed income securities are things I know I will use for the rest of my life. I was not a fan of the marking scheme, but other than that, I thoroughly enjoyed the course and content.
+I loved this course! AFM 121 is basically a course that teaches basic excel. The content is probably the most useful/life-applicable course I have taken. The content based on time value of money, RRSPs vs TFSAs, and fixed income securities are things I know I will use for the rest of my life. I was not a fan of the marking scheme, but other than that, I thoroughly enjoyed the course and content. Get used to excel and be very comfortable with the shortcuts and built-in commands of excel. I was able to finish the midterm within 50 minutes (total midterm time is 1 hour and 30 minutes) giving me forty minutes to go back and check everything over simply by using excel shortcuts.
+
+### **4.** Get involved around campus
 
 ![UW Hult](/assets/Grecco3.png "*Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition")
 
 **Pitching our venture idea for sustainable & reusable food containers at UW's semi-finals Hult Competition!**
+
+There are a lot of great ways to get involved around campus, whether that be in residence, clubs, student unions, councils, hackathons, etc. Find something you like and get involved. I should say that it's also important not to spread yourselves out too thin, so know your limits - I think it's better to under commit to activities outside academics rather than overcommit. I focused on a couple of key activities in my first year:
+
+Math Endowment Fund - It's a neat experience to see where the money from the math faculty goes. I had the chance to meet with different councils and clubs as they pitched to use why the needed funding from the endowment fund. I learned a lot about the different supports around campus and see what other cool things go around on campus.
+
+UW DECA - I took the opportunity to continue my experience of high school DECA but reduced the amount of training. If anything, UW DECA was a great way for me to relax and refresh myself. 
 
 ### **Midterms**
 

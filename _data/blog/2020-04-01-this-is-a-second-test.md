@@ -155,3 +155,9 @@ I’ve enjoyed the balance between finance/accounting vs the math/computer scien
 #### Final Thoughts
 
 \-----
+
+Links for photos:
+
+UW Orientation: <https://bit.ly/3e8Nn10>
+
+CFM Pictures: [](https://www.flickr.com/photos/184486206@N04)<https://www.flickr.com/people/184486206@N04/>

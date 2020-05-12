@@ -181,8 +181,9 @@ I’ve enjoyed the balance between finance/accounting vs the math/computer scien
 
 #### Final Thoughts
 
-\-----
+I hope you found some of this information helpful. Don't hesitate to reach out to me or any other upper-year students at Waterloo, most of us are happy to help and support others. 
 
+--- 
 Links for photos:
 
 UW Orientation: <https://bit.ly/3e8Nn10>

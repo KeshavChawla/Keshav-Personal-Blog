@@ -150,10 +150,25 @@ I was lucky enough to get my first choice of residence Claudette Millar Hall (CM
 Let's consider why: If we take a course like AFM 121 which has one lecture and tutorial a week we get a total 24 total events throughout the term. Here is the cost per event for a CFM student in their 1A term :
 
 | Class        | Domestic CFM Tuition Per Class | International CFM Tuition Per Class|
-| :-------------: |:-------------:| :-----:|
+| :-------------: |:----------------------:| :----------:|
 | AFM 121      | $$28.46$ | $$174.375$ |
-| col 2 is      | centered      |   $12 |
+| MATH 135      | $$18.9722222222$      |   $$116.25$ |
 | zebra stripes | are neat      |    $1 |
+
+$$ \begin{table}[h!]
+  \begin{center}
+    \caption{Your first table.}
+    \label{tab:table1}
+    \begin{tabular}{l|c|r} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
+      \textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+      $\alpha$ & $\beta$ & $\gamma$ \\
+      \hline
+      1 & 1110.1 & a\\
+      2 & 10.1 & b\\
+      3 & 23.113231 & c\\
+    \end{tabular}
+  \end{center}
+\end{table}$$
 
   
 

@@ -12,7 +12,7 @@ thumbnail: /assets/IMG_2287.JPG
 
 ## ***My first year at the University of Waterloo:***
 
-I have officially completed my second term at the University of Waterloo and my first year as a Computing and Financial Management (CFM) student here. I thought I would take a couple of moments to reflect on the past year, the courses I've taken, and what I've realized during the last eight months. I've realized how valuable (and expensive) this last year has been. UW has pushed me far beyond what I believed was possible. I've had many long nights, stressful assignments, and a (healthy) dosage anxiety-inducing exams. In combination, I've had many laughs, social nights, and successes.
+I have officially completed my second term at the University of Waterloo and my first year as a Computing and Financial Management (CFM) student here. I thought I would take a couple of moments to reflect on the past year, the courses I've taken, and what I've realized during the last eight months. I've thought about how valuable (and expensive) this last year has been. UW has pushed me far beyond what I believed was possible. I've had many long nights, stressful assignments, and a (healthy) dosage anxiety-inducing exams. In combination, I've had many laughs, social nights, and successes.
 
 ### 1. Attend Orientation
 
@@ -24,7 +24,7 @@ I have officially completed my second term at the University of Waterloo and my 
 
 Orientation Week is probably the most blissful part of the first year. While not in the itinerary, getting lost around campus, meeting random people, and sporadic nightly games of manhunt all frequently occurred.
 
-Orientation is really just three days of short mini-games and lectures on what to expect for the next four years. The games were fun-ish but the real value of orientation was the social aspect to meet other people in your faculty/program and other undergraduates. I will say, 2019 Math Orientation team names were quite amusing; some of my personal favourites include: Babooleans, Ine-koala-ties, Orangu(sin/cos), mx+bees, and $$\pi$$-ranhas.
+Orientation is really just three days of short mini-games and lectures on what to expect for the next four years. The games were fun-ish, but the real value of orientation was the social aspect to meet other people in your faculty/program and other undergraduates. I will say, 2019 Math Orientation team names were quite amusing; some of my personal favourites include: Babooleans, Ine-koala-ties, Orangu(sin/cos), mx+bees, and $$\pi$$-ranhas.
 
 ### **2. First Week of Classes**
 
@@ -61,7 +61,7 @@ I found CS 135 to be an incredibly interesting course, especially coming into it
   ;; Instead of (x * y) or (x + y) it becomes (* x y) and (+ x y)
   (λ (y) (* x y)))
   
-;; Functions as first class values
+;; Functions as first-class values
 (define multiply-by-3 (my-multiplier 3))
 (check-expect (my-factorial 4) 24)
 (check-expect (multiply-by-3 (my-factorial 4)) 72)
@@ -81,7 +81,7 @@ A course on basic business knowledge, found it be similar to grade 10 HS busines
 
 **Quick observation:**
 
-I found AFM 101 and AFM 132 to be the easiest first year AFM courses and from general consensus from upper year students these two courses are on the easier end of the spectrum of all AFM courses. Don't slack off in these courses - 101 and 132 should be the courses that should set your SMAV up to be in the comfortable zone. 
+I found AFM 101 and AFM 132 to be the easiest first year AFM courses, and from general consensus from upper-year students, these two courses are on the easier end of the spectrum of all AFM courses. Don't slack off in these courses - 101 and 132 should be the courses that should set your SMAV up to be in the comfortable zone.
 
 <img src="/assets/HTN-UW.jpg" alt="Hack The North 2019" style="width:300px;"/>
 
@@ -103,11 +103,11 @@ A stark difference to CS 135; CS 136 is based on C rather than Racket. I found C
 
 #### **AFM 102 - Introduction to Managerial Accounting**
 
-I personally like managerial account much more than financial accounting. With 102, I was at least able to see the bigger picture and the applications to managerial accounting. But like with AFM 101, I still found 102 to be my least likeable course this term. I guess I am just not a fan of accounting courses. Luckily, CFM doesn't have to take anymore accounting courses for my degree requirements.
+I personally like managerial account much more than financial accounting. With 102, I was at least able to see the bigger picture and the applications to managerial accounting. But like with AFM 101, I still found 102 to be my least likeable course this term. I guess I am just not a fan of accounting courses. Luckily, CFM doesn't require you to take any accounting courses beyond AFM 101 and 102.
 
 #### **AFM 121 - Introduction to Global Financial Markets**
 
-I loved this course! AFM 121 is basically a course that teaches basic excel. The content is probably the most useful/life-applicable course I have taken. The content based on time value of money, RRSPs vs TFSAs, and fixed income securities are things I know I will use for the rest of my life. I was not a fan of the marking scheme, but other than that, I thoroughly enjoyed the course and content. Get used to excel and be very comfortable with the shortcuts and built-in commands of excel. I was able to finish the midterm within 50 minutes (total midterm time is 1 hour and 30 minutes) giving me forty minutes to go back and check everything over simply by using excel shortcuts.
+I loved this course! AFM 121 is basically a course that teaches basic excel. The content is probably the most useful/life-applicable course I have taken. Content like time value of money, RRSPs vs TFSAs, and fixed income securities are things I know I will use for the rest of my life. I was not a fan of the marking scheme, but other than that, I thoroughly enjoyed the course and content. Get used to excel and be very comfortable with the shortcuts and built-in commands of excel. I was able to finish the midterm within 50 minutes (total midterm time is 1 hour and 30 minutes), giving me forty minutes to go back and check everything over simply by using excel shortcuts.
 
 ### **4.** Get involved around campus
 
@@ -129,16 +129,15 @@ I found midterms to be very similar to high school exams. I think of midterms as
 
 Naturally, the most stressful part of the term but also the most satisfying to finish. Final exams were definitely more challenging than midterms and combined that with the short timeframe from one exam to the next doesn’t make it any better. Final exams are a necessary evil. All I can suggest on this subject is to start preparing early and thoroughly.
 
-### **7. The Waterloo Campus**
+### **7. The Waterloo Campus - Find a great study space** 
 
-To put it simply: ugly.\
-Well, to give Waterloo credit, some of the buildings are actually quite beautiful.
+To put it simply: ugly. Well, to give Waterloo credit, some of the buildings are quite beautiful.
 
 Buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca.centre-for-teaching-excellence/files/styles/body-500px-wide/public/uploads/images/mc_building.png?itok=E7vxl5Cs), RCH, and DP all fall in the last century architecture category. Unfortunately, I also find myself and my classes more commonly in these buildings.
 
-In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I didn’t think the look of a building would have a significant impact on my study habits or my attitude, but after spending hours on end each day in buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca.centre-for-teaching-excellence/files/styles/body-500px-wide/public/uploads/images/mc_building.png?itok=E7vxl5Cs), I see the importance of a soothing environment.
+In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I didn’t think the look of a building would have a significant impact on my study habits or my attitude, but after spending hours on end each day in buildings like [MC](https://uwaterloo.ca/centre-for-teaching-excellence/sites/ca.centre-for-teaching-excellence/files/styles/body-500px-wide/public/uploads/images/mc_building.png?itok=E7vxl5Cs), I see the importance of a soothing environment. Find a place where you know you will be productive and undisturbed.
 
-### **8. Residence**
+### **8. Stay in Residence**
 
 ![My room in CMH](/assets/CMH-Room copy.jpg "My room in CMH")
 
@@ -146,27 +145,22 @@ In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I 
 
 I was lucky enough to get my first choice of residence Claudette Millar Hall (CMH). The building and rooms were gorgeous, and the views I woke up to every day were fantastic (definitely going to miss that). I think the best part of the residence experience was the social aspect. Meeting people in the same faculty makes understanding concepts and learning exponentially easier. In general, having the chance to meet and interact with many individuals made the year go by much quicker.
 
+Regardless of what residence you choose you will have the opportunity and you should make the effort to meet new people.
+
 ### **9. Show up to class!**
+
 Let's consider why: If we take a course like AFM 121, which has one lecture and tutorial a week, we get a total of 24 total events throughout the term. Here is the cost per event for a CFM student in their 1A term :
 
 Cost per class:
 
-$
-\begin{array}{|c|c|c|}
-\hline Course & CFM \space Domestic & CFM \space International\\
-\hline AFM-121 & \$28.46 & \$174.38\\
-\hline MATH-135 & \$18.97 & \$116.25\\
-\hline
+$ \begin{array}{|c|c|c|}
+\hline Course & CFM \space Domestic & CFM \space International\ \hline AFM-121 & $28.46 & $174.38\ \hline MATH-135 & $18.97 & $116.25\ \hline
 \end{array}
 $
 
-Now consider a second year and above CFM student:
-$
+Now consider a second year and above CFM student: $
 \begin{array}{|c|c|c|}
-\hline Course & CFM \space Domestic & CFM \space International\\
-\hline AFM-272 & \$70.25 & \$171.35\\
-\hline STAT-230 & \$46.83 & \$114.24\\
-\hline
+\hline Course & CFM \space Domestic & CFM \space International\ \hline AFM-272 & $70.25 & $171.35\ \hline STAT-230 & $46.83 & $114.24\ \hline
 \end{array}
 $
 
@@ -184,7 +178,8 @@ I’ve enjoyed the balance between finance/accounting vs the math/computer scien
 
 I hope you found some of this information helpful. Don't hesitate to reach out to me or any other upper-year students at Waterloo, most of us are happy to help and support others. 
 
---- 
+- - -
+
 Links for photos:
 
 UW Orientation: <https://bit.ly/3e8Nn10>

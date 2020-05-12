@@ -153,17 +153,7 @@ Let's consider why: If we take a course like AFM 121, which has one lecture and 
 
 Cost per class:
 
-$$ \
-\begin{array}{|c|c|c|} \hline Course & CFM \space Domestic & CFM \space International\ \ \hline AFM-121 & $28.46 & $174.38\ \ \hline MATH-135 & $18.97 & $116.25\ \ \hline
-\end{array}
-$$
 
-Now consider a second year and above CFM student: 
-
-$$
-\begin{array}{|c|c|c|} \hline Course & CFM \space Domestic & CFM \space International\ \ \hline AFM-272 & $70.25 & $171.35\ \ \hline STAT-230 & $46.83 & $114.24\ \ \hline
-\end{array}
-$$
 
 You can see the cost is a substantial amount. Just one class of AFM 121 for an international CFM student can cost $$174.38$. It doesn't make sense to skip a class financially.
 

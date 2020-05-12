@@ -179,7 +179,7 @@ More often than not, Professors will put information into exams or give tips tha
 
 I’ve enjoyed the balance between finance/accounting vs the math/computer science courses. I do see an added value with the CFM degree as compared to a general CS degree or even the double degree BBA/BCS degree. With CFM, the added value comes in with the small program (easier to put faces to a name), upper-year mentorship, and close community.
 
-#### Final Thoughts
+### **Final Thoughts**
 
 I hope you found some of this information helpful. Don't hesitate to reach out to me or any other upper-year students at Waterloo, most of us are happy to help and support others. 
 

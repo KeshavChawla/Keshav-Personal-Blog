@@ -182,6 +182,5 @@ I hope you found some of this information helpful. Don't hesitate to reach out t
 
 Links for photos:
 
-UW Orientation: <https://bit.ly/3e8Nn10>
-
+UW Orientation: <https://bit.ly/3e8Nn10>\
 CFM Pictures: [](https://www.flickr.com/photos/184486206@N04)<https://www.flickr.com/people/184486206@N04/>

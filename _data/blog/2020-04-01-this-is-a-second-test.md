@@ -152,8 +152,13 @@ Regardless of what residence you choose you will have the opportunity and you sh
 Let's consider why: If we take a course like AFM 121, which has one lecture and tutorial a week, we get a total of 24 total events throughout the term. Here is the cost per event for a CFM student in their 1A term :
 
 Cost per class:\
-$\
-\begin{array}{|c|c|c|} \hline Course & CFM \space Domestic & CFM \space International\ \ \hline AFM-121 & \$28.46 & \$174.38\ \ \hline MATH-135 & \$18.97 & \$116.25\ \ \hline \end{array}\
+$
+\begin{array}{|c|c|c|} 
+\hline Course & CFM \space Domestic & CFM \space International\\
+\hline AFM-121 & \$28.46 & \$174.38\\
+\hline MATH-135 & \$18.97 & \$116.25\\ 
+\hline 
+\end{array}
 $
 
 You can see the cost is a substantial amount. Just one class of AFM 121 for an international CFM student can cost $$174.38$. It doesn't make sense to skip a class financially.

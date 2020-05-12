@@ -147,8 +147,9 @@ In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I 
 I was lucky enough to get my first choice of residence Claudette Millar Hall (CMH). The building and rooms were gorgeous, and the views I woke up to every day were fantastic (definitely going to miss that). I think the best part of the residence experience was the social aspect. Meeting people in the same faculty makes understanding concepts and learning exponentially easier. In general, having the chance to meet and interact with many individuals made the year go by much quicker.
 
 ### **9. Show up to class!**
-Let's consider why: If we take a course like AFM 121 which has one lecture and tutorial a week we get a total 24 total events throughout the term. Here is the cost per event for a CFM student in their 1A term :
+Let's consider why: If we take a course like AFM 121, which has one lecture and tutorial a week, we get a total of 24 total events throughout the term. Here is the cost per event for a CFM student in their 1A term :
 
+Cost per class:
 $
 \begin{array}{|c|c|c|}
 \hline Course & CFM \space Domestic & CFM \space International\\
@@ -157,14 +158,26 @@ $
 \hline
 \end{array}
 $
-  
 
+Now consider a second year and above CFM student:
+$
+\begin{array}{|c|c|c|}
+\hline Course & CFM \space Domestic & CFM \space International\\
+\hline AFM-272 & \$70.25 & \$171.35\\
+\hline STAT-230 & \$46.83 & \$114.24\\
+\hline
+\end{array}
+$
+
+You can see the cost is a substantial amount. Just one class of AFM 121 for an international CFM student can cost $$174.38$. It doesn't make sense to skip a class financially.
+
+More often than not, Professors will put information into exams or give tips that are only mentioned in class. While you may be able to learn the material on your own, it's likely that you won't be able to learn everything taught in class, and it will take you a longer time in comparison. Show up to class.
 
 ### **10. The CFM Program**
 
 ![CFM Mints](/assets/CFM_Mints.jpg "CFM Mints")
 
-I’ve enjoyed the balance between finance/accounting vs the math/computer science courses. I do enjoy the CS courses more than the finance courses, but I still maintain an interest in both. I do see an added value with the CFM degree as compared to a general CS degree or even the double degree BBA/BCS degree. With CFM, the added value comes in with the small program (easier to put faces to a name), upper-year mentorship, and close community.
+I’ve enjoyed the balance between finance/accounting vs the math/computer science courses. I do see an added value with the CFM degree as compared to a general CS degree or even the double degree BBA/BCS degree. With CFM, the added value comes in with the small program (easier to put faces to a name), upper-year mentorship, and close community.
 
 #### Final Thoughts
 

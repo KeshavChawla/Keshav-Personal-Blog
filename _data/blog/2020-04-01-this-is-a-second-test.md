@@ -153,7 +153,8 @@ Let's consider why: If we take a course like AFM 121, which has one lecture and 
 
 Cost per class:
 
-$ \begin{array}{|c|c|c|}
+$ \
+\begin{array}{|c|c|c|}
 \hline Course & CFM \space Domestic & CFM \space International\ \hline AFM-121 & $28.46 & $174.38\ \hline MATH-135 & $18.97 & $116.25\ \hline
 \end{array}
 $

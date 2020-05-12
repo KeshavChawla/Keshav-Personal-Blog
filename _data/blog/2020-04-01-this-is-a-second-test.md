@@ -158,7 +158,9 @@ $ \begin{array}{|c|c|c|}
 \end{array}
 $
 
-Now consider a second year and above CFM student: $
+Now consider a second year and above CFM student: 
+
+$
 \begin{array}{|c|c|c|}
 \hline Course & CFM \space Domestic & CFM \space International\ \hline AFM-272 & $70.25 & $171.35\ \hline STAT-230 & $46.83 & $114.24\ \hline
 \end{array}

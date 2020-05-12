@@ -28,7 +28,7 @@ Orientation is really just three days of short mini-games and lectures on what t
 
 ### **2. First Week of Classes**
 
-Probably the easiest week for the rest of my undergrad, but adjusting to Uni life + anxiety + excitement result in different reactions for different people. Probably the highlight of this week was attempting (and failing) at solving my first couple of proofs. Things will be hectic during this time, but the dust will settle. Just remember that this is not the time to slack off. Get ahead on courses and stay on top of everything - you will want a running start for the inevitable time when everything starts catching up.
+Probably the easiest week for the rest of my undergrad, but adjusting to Uni life + anxiety + excitement result in different reactions for different people. The highlight of this week was attempting (and failing) at solving my first couple of proofs. Things will be hectic during this time, but the dust will settle. Just remember that this is not the time to slack off. Get ahead on courses and stay on top of everything - you will want a running start for the inevitable time when everything starts catching up.
 
 ### **3. Reflecting on my 1A Courses**
 
@@ -146,7 +146,19 @@ In contrast, the SAF building, DC, and QNC are visually appealing to the eye. I 
 
 I was lucky enough to get my first choice of residence Claudette Millar Hall (CMH). The building and rooms were gorgeous, and the views I woke up to every day were fantastic (definitely going to miss that). I think the best part of the residence experience was the social aspect. Meeting people in the same faculty makes understanding concepts and learning exponentially easier. In general, having the chance to meet and interact with many individuals made the year go by much quicker.
 
-### **9. The CFM Program**
+### **9. Show up to class!**
+Let's consider why: If we take a course like AFM 121 which has one lecture and tutorial a week we get a total 24 total events throughout the term. Here is the cost per event for a CFM student in their 1A term :
+
+| Class        | Domestic CFM Tuition Per Class | International CFM Tuition Per Class|
+| :-------------: |:-------------:| :-----:|
+| AFM 121      | $$28.46$ | $$174.375$ |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+  
+
+
+### **10. The CFM Program**
 
 ![CFM Mints](/assets/CFM_Mints.jpg "CFM Mints")
 

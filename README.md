@@ -1,5 +1,5 @@
 <a href="https://keshavchawla.com/blog">
-<img border="0" alt="KeshavBlog" src="https://blog.keshavchawla.com/static/keshav_mac_animoji-d945f3e8a7833b93ccc55d41714a10d8.jpg" width="140" height="140">
+<img border="0" alt="KeshavBlog" src="https://raw.githubusercontent.com/KeshavChawla/Keshav-Personal-Blog/master/static/assets/keshav_mac_animoji.jpg" width="140" height="140">
 </a>
 
 # [Keshav Chawla - Personal Blog](https://keshavchawla.com/blog)

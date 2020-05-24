@@ -30,7 +30,6 @@ const IndexPage = ({
 
   return (
     <Layout>
-
       <Helmet>
       <title>Keshav Chawla's Blog</title>
         <meta name="description" content={site.siteMetadata.description} />

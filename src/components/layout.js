@@ -37,7 +37,7 @@ export default ({ children }) => {
       <footer className="site-footer">
         <p>Made with  <span role="img" aria-label="love">❤️</span>in <span role="img" aria-label="canada">🇨🇦</span>Toronto, ON. </p>
 
-        <p>Powered via <a href="https://www.gatsbyjs.org/">Gatsby.js</a></p>
+        <p>Powered via <a href="https://www.gatsbyjs.org/">Gatsby.js</a>. I live on <a href="https://github.com/KeshavChawla/Keshav-Personal-Blog">GitHub</a>! </p>
       </footer>
 
     </div>

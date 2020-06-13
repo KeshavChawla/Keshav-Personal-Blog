@@ -25,7 +25,7 @@ export default ({ children }) => {
 
         <div className="site-title">
         <div className="animoji-innner">
-        <img className="animoji-header-image" src={header_logo} alt="Keshav Animoji Header Logo" />
+        <a href="/"><img className="animoji-header-image" src={header_logo} alt="Keshav Animoji Header Logo" /></a>
         </div>
         <Link to="/">{data.site.siteMetadata.title}</Link>
         </div>

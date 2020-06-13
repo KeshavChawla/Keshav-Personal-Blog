@@ -19,7 +19,7 @@ Here are some of the key takeaways:
 
 Based on the above, here are some recommendations (many of these might be tips you have heard before but still stand as sound advice) and my security setup. 
 
-1. ##### **Create strong passwords**
+1. ## **Create strong passwords**
 
 By strong, I *usually* mean passwords that can not be rememberable. The goal should be to have most, if not all, of your passwords made using secure password generators that you will never be able to memorize or enter yourself from memory. When creating your passwords, your goal should be to aim with high entropy, that is, increase the number of **random** uses of different character sets within your password while also increasing in length. The longer, more unique, and random your password is, the better. 
 
@@ -29,11 +29,11 @@ Examples of high entropy passwords (don't use this now obviously):
 
 I should point out in this case when I mention random, I am referring to the use of pseudo-random number generators (PRNGs) but, if possible, make use of true random number generators. (TRNGs). I think random.org has a great article about this and even discusses how they use atmospheric noise to generate truly random numbers https://www.random.org/randomness/.
 
-2. ##### **Never ever, absolutely ever re-use passwords** 
+2. ## **Never ever, absolutely ever re-use passwords**
 
 If you have ever re-used passwords, now is the time to change that. This way, if a password does become exposed, that attack is isolated to one specific point of access or account. This will not only save you time but also provide you with long-term comfort of knowing that you should be alright in times of crisis.
 
-3. ##### Make use of a password manager
+3. ## Make use of a password manager
 
 This goes along well with point #1. In my opinion, password managers are what allow you to generate and use long strings of passwords that you otherwise would not be able to. Password managers provide some of the convenience of weak memorable passwords but with some added security that comes with stronger passwords.
 
@@ -47,7 +47,7 @@ I prefer to use an open-source password manager like [Bitwarden](https://bitward
 
 If you are on a Mac and looking for a reliable and secure password manager, I recommend using MacPass, a KeePass-compatible password manager. MacPass is one of the many KeePass password managers, but I find it to have a more current UI than the several other out there.
 
-4. ##### Enable two-factor authentication
+4. ## Enable two-factor authentication
 
 Even if someone has your password enabling two-factor authentication on your accounts provides you with a secondary level of defence that prevents your accounts from being compromised.
 
@@ -63,17 +63,17 @@ Depending on your accounts, there may be multiple ways to use 2FA:
 
 Whatever way(s) you find most convenient enable two-factor authentication on your devices.
 
-5. ##### Before you blindly use a VPN because you were told it was safe, know what you are getting yourself into
+5. ## Before you blindly use a VPN because you were told it was safe, know what you are getting yourself into
 
 Specifically, weigh out the pros and cons of a third party service and, more importantly, the service provider. If done right, VPNs provide a great service and aid in your quest to become digitally secure. I can't entirely agree with all the points here, but this is a great read before you buy into a service: https://gist.github.com/joepie91/5a9909939e6ce7d09e29. As a baseline, I will say this: never trust a free VPN, be suspicious of every claim, and look for a no-logs policy. If something is too good to be true, then it probably is.
 
 Another note about VPNs: be smart about your use. If you use or plan to use a VPN to bypass geographic restrictions or for various other activities, go look elsewhere. I only encourage you to use a VPN to protect secure your traffic and its use on open or hostile networks.
 
-6. ##### Use PGP whenever possible and convenient
+6. ## Use PGP whenever possible and convenient
 
 [I have written about this before, so I'll link my previous blog post on why you should use PGP.](https://keshavchawla.com/blog/use-pgp)
 
-7. ##### Set up alerts for account breaches
+7. ## Set up alerts for account breaches
 
 Make use of https://haveibeenpwned.com/ to check your email accounts and sign up to get alerts of breaches. Haveibeenpwned will notify you of what specific activity has been comprised and, most times, by which service.
 

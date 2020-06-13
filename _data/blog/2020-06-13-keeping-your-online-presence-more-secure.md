@@ -3,6 +3,7 @@ template: BlogPost
 path: digitally-secure-yourself
 date: 2020-06-12T11:30:00.000Z
 title: Keeping your online presence more secure
+thumbnail: /assets/c99fc112acb64ea0a257409d5b499a92-sticker.png
 ---
 Lately, I've had a keen interest in security and finding ways to make my programs, web applications, and digital accounts more secure. In the process, I have revamped my online workflow and found ways to keep my online presence safe.
 

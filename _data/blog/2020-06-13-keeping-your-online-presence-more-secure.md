@@ -3,8 +3,12 @@ template: BlogPost
 path: /digitally-secure-yourself
 date: 2020-06-12T11:30:00.000Z
 title: Keeping your online presence more secure
-thumbnail: /assets/c99fc112acb64ea0a257409d5b499a92-sticker.png
+thumbnail: /assets/HIBP-Passwords.jpg
 ---
+![HIBP Passwords Hash](/assets/HIBP-Passwords.jpg "HIBP Passwords Hash")
+
+**A list of the most common passwords used as record in the haveibeenpwned Pwned Passwords in SHA-1 hash. Notice how the most common password was used 23,547,453 times (source:<https://haveibeenpwned.com/Passwords>)!**
+
 Lately, I've had a keen interest in security and finding ways to make my programs, web applications, and digital accounts more secure. In the process, I have revamped my online workflow and found ways to keep my online presence safe.
 
 Here are some of the key takeaways: 
@@ -33,9 +37,13 @@ If you have ever re-used passwords, now is the time to change that. This way, if
 
 This goes along well with point #1. In my opinion, password managers are what allow you to generate and use long strings of passwords that you otherwise would not be able to. Password managers provide some of the convenience of weak memorable passwords but with some added security that comes with stronger passwords.
 
-You can use an online service like 1Password or LastPass, but I'm not a fan of company based password managers. I should point out that there is nothing severely wrong with using such password managers - it's just that I don't feel comfortable giving out my credentials to a private company + paying another monthly subscription.
+You can use an online service like [1Password](https://1password.com/) or [LastPass](https://www.lastpass.com/solutions/business-password-manager), but I'm not a fan of company based password managers. I should point out that there is nothing severely wrong with using such password managers - it's just that I don't feel comfortable giving out my credentials to a private company + paying another monthly subscription.
 
-I prefer to use an open-source password manager like Bitwarden or KeePass, where I can control precisely how my passwords are stored and how they can be decrypted when needed. Yes, I will admit that this is more of an inconvenience that using 1Password or LastPass, but I'm willing to give up some convenience for more peace of mind.
+I prefer to use an open-source password manager like [Bitwarden](https://bitwarden.com/) or [KeePass](https://keepass.info/), where I can control precisely how my passwords are stored and how they can be decrypted when needed. Yes, I will admit that this is more of an inconvenience that using 1Password or LastPass, but I'm willing to give up some convenience for more peace of mind.
+
+![MacPass App](/assets/MacPass_Image.png "MacPass App")
+
+**MacPass UI (Source: <https://macpassapp.org/>)**
 
 If you are on a Mac and looking for a reliable and secure password manager, I recommend using MacPass, a KeePass-compatible password manager. MacPass is one of the many KeePass password managers, but I find it to have a more current UI than the several other out there.
 
@@ -47,8 +55,8 @@ Depending on your accounts, there may be multiple ways to use 2FA:
 
 * Via a confirmation email
 * Via a text message code
-* Via authenticator apps like Google Authenticator and Duo Mobile
-* Via hardware like a YubiKey
+* Via authenticator apps like [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator) and [Duo Mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app)
+* Via hardware like a [YubiKey](https://www.yubico.com/)
 * Via backup codes
 * Via security questions
 * Via digital certificates
@@ -63,7 +71,7 @@ Another note about VPNs: be smart about your use. If you use or plan to use a VP
 
 6. Use PGP whenever possible and convenient
 
-I have written about this before, so I'll link my previous blog post on why.
+[I have written about this before, so I'll link my previous blog post on why you should use PGP.](https://keshavchawla.com/blog/use-pgp)
 
 7. Set up alerts for account breaches
 

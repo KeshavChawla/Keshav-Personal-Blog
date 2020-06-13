@@ -23,7 +23,7 @@ Based on the above, here are some recommendations (many of these might be tips y
 
 By strong, I *usually* mean passwords that can not be rememberable. The goal should be to have most, if not all, of your passwords made using secure password generators that you will never be able to memorize or enter yourself from memory. When creating your passwords, your goal should be to aim with high entropy, that is, increase the number of **random** uses of different character sets within your password while also increasing in length. The longer, more unique, and random your password is, the better. 
 
-Examples of high entropy passwords (don't use this now obviously):
+An example of a high entropy passwords (don't use this now obviously):
 
 `bqj0|$K^)4o6V!eBh$Ddx]MQ>t({~[9-M&fp:Pln;}&mU<Q9Y_T~y'Ki>Qw$0uZ`
 

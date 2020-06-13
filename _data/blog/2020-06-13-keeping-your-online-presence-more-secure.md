@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /digitally-secure-yourself
-date: 2020-06-12T11:30:00.000Z
+date: 2020-06-13T21:14:00.000Z
 title: Keeping your online presence more secure
 thumbnail: /assets/HIBP-Passwords.jpg
 ---

@@ -17,17 +17,17 @@ Here are some of the key takeaways:
 * Most of your online accounts are susceptible to secondary attacks
 * You've likely had a hashed password leak
 
-Based on the above, here are some recommendations (many of these might be tips you have heard before but still stand as sound advice) and my security setup. 
+Based on the above, here are some recommendations (many of these might be tips you have probably heard before but they still stand as sound advice) and my security setup. 
 
 1. ## **Create strong passwords**
 
-By strong, I *usually* mean passwords that can not be rememberable. The goal should be to have most, if not all, of your passwords made using secure password generators that you will never be able to memorize or enter yourself from memory. When creating your passwords, your goal should be to aim with high entropy, that is, increase the number of **random** uses of different character sets within your password while also increasing in length. The longer, more unique, and random your password is, the better. 
+By strong, I *usually* mean passwords that can not be rememberable. The goal should be to have most, if not all, of your passwords made using secure password generators that you will never be able to memorize or enter yourself from memory. When creating your passwords, your goal should be to aim for high entropy, that is, increase the number of **random** uses of different character sets within your password while also increasing its length. The longer, more unique, and random your password, the better. 
 
 An example of a high entropy passwords (don't use this now obviously):
 
 `bqj0|$K^)4o6V!eBh$Ddx]MQ>t({~[9-M&fp:Pln;}&mU<Q9Y_T~y'Ki>Qw$0uZ`
 
-I should point out in this case when I mention random, I am referring to the use of pseudo-random number generators (PRNGs) but, if possible, make use of true random number generators. (TRNGs). I think random.org has a great article about this and even discusses how they use atmospheric noise to generate truly random numbers https://www.random.org/randomness/.
+I should point out that when I mention random, I am referring to the use of pseudo-random number generators (PRNGs) but, if possible, make use of true random number generators. (TRNGs). I think random.org has a great article about this and even discusses how they use atmospheric noise to generate truly random numbers https://www.random.org/randomness/.
 
 2. ## **Never ever, absolutely ever re-use passwords**
 
@@ -35,17 +35,17 @@ If you have ever re-used passwords, now is the time to change that. This way, if
 
 3. ## Make use of a password manager
 
-This goes along well with point #1. In my opinion, password managers are what allow you to generate and use long strings of passwords that you otherwise would not be able to. Password managers provide some of the convenience of weak memorable passwords but with some added security that comes with stronger passwords.
+This goes along with point #1. Password managers are what allow you to generate and use long strings of passwords that you otherwise would not be able to. Password managers provide some of the convenience of weak memorable passwords but with some of the added security that comes with stronger passwords.
 
 You can use an online service like [1Password](https://1password.com/) or [LastPass](https://www.lastpass.com/solutions/business-password-manager), but I'm not a fan of company based password managers. I should point out that there is nothing severely wrong with using such password managers - it's just that I don't feel comfortable giving out my credentials to a private company + paying another monthly subscription.
 
-I prefer to use an open-source password manager like [Bitwarden](https://bitwarden.com/) or [KeePass](https://keepass.info/), where I can control precisely how my passwords are stored and how they can be decrypted when needed. Yes, I will admit that this is more of an inconvenience that using 1Password or LastPass, but I'm willing to give up some convenience for more peace of mind.
+I prefer to use an open-source password manager like [Bitwarden](https://bitwarden.com/) or [KeePass](https://keepass.info/), where I can control precisely how my passwords are stored and how they can be decrypted when needed. Yes, I will admit that this is more of an inconvenience that using 1Password or LastPass, but I'm willing to give up some convenience for more peace of mind + one less monthly subscription.
 
 ![MacPass App](/assets/MacPass_Image.png "MacPass App")
 
 **MacPass UI (Source: <https://macpassapp.org/>)**
 
-If you are on a Mac and looking for a reliable and secure password manager, I recommend using MacPass, a KeePass-compatible password manager. MacPass is one of the many KeePass password managers, but I find it to have a more current UI than the several other out there.
+If you are on a Mac and looking for a reliable and secure password manager, I recommend using MacPass, a KeePass-compatible password manager. I find MacPass to have a more current UI than the several other KeePass-compatible password managers out there.
 
 4. ## Enable two-factor authentication
 
@@ -61,11 +61,13 @@ Depending on your accounts, there may be multiple ways to use 2FA:
 * Via security questions
 * Via digital certificates
 
-Whatever way(s) you find most convenient enable two-factor authentication on your devices.
+Whatever way(s) you find most convenient enable two-factor authentication on your accounts.
 
 5. ## Before you blindly use a VPN because you were told it was safe, know what you are getting yourself into
 
-Specifically, weigh out the pros and cons of a third party service and, more importantly, the service provider. If done right, VPNs provide a great service and aid in your quest to become digitally secure. I can't entirely agree with all the points here, but this is a great read before you buy into a service: https://gist.github.com/joepie91/5a9909939e6ce7d09e29. As a baseline, I will say this: never trust a free VPN, be suspicious of every claim, and look for a no-logs policy. If something is too good to be true, then it probably is.
+Specifically, weigh out the pros and cons of a third party service and, more importantly, the service provider. If done right, VPNs provide a great service and aid in your quest to become digitally secure. I can't entirely agree with all the points here, but this is a great read before you buy into a service: https://gist.github.com/joepie91/5a9909939e6ce7d09e29. 
+
+As a baseline, I will say this: never trust a free VPN, be suspicious of every claim, and look for a no-logs policy. If something is too good to be true, then it probably is.
 
 Another note about VPNs: be smart about your use. If you use or plan to use a VPN to bypass geographic restrictions or for various other activities, go look elsewhere. I only encourage you to use a VPN to protect secure your traffic and its use on open or hostile networks.
 

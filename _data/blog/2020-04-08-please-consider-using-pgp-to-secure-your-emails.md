@@ -3,7 +3,7 @@ template: BlogPost
 path: /use-pgp
 date: 2020-04-08T12:06:05.842Z
 title: Please consider using PGP to secure your emails.
-thumbnail: /assets/Keshav-Encrypt.png
+thumbnail: /assets/With-WB-Keshav-Wave.jpg
 ---
 So after using an email client that has been [suspected of numerous privacy violations](https://www.reddit.com/r/privacy/comments/5grsan/do_not_use_the_spark_email_client_by_readdle/), I decided to up my security precautions. I'm still looking for a decent macOS based email client, but in the meantime, I have enabled (*and prefer*) PGP email communication.
 
@@ -31,6 +31,4 @@ Android: <https://play.google.com/store/apps/details?id=org.sufficientlysecure.k
 
 Import the public key into your local OpenPGP Key-Manager.
 
-Please let me know if you have suggestions for a secure macOS based email client.
-
-Looking forward to exchange snooping-free messages with you.
+Please let me know if you have suggestions for a MacOS email client.

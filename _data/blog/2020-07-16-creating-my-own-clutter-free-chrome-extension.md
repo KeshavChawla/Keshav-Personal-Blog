@@ -11,15 +11,13 @@ Hey!
 
 I just came here to showcase one of the things I have been working on the side.
 
-I have become increasingly annoyed by the clutter by some of the new tab extensions on the google chrome store.
+I have become increasingly annoyed by the clutter some of the new tab extensions on the google chrome store create.
 
-No, I don’t need to have chrome set Google as my home page, and I don’t need to see a list of recently visited sites either.
-
-All my important sites are already placed in my Bookmark bar, and I can access Google directly from the embedded search bar.
+No, I don’t need to have chrome set Google as my home page, and I don’t need to see a list of recently visited sites either. All my important sites are already placed in my Bookmark bar, and I can access Google directly from the embedded search bar.
 
 Come to think of it, I don’t even really need a homepage or fancy new tab extension.
 
-I just wanted something simple. By simple, I just wanted a nice blank screen that only showed me the following:
+I just want something simple. By simple, I just wanted a nice blank screen that only showed me the following:
 
 * The date
 * The time

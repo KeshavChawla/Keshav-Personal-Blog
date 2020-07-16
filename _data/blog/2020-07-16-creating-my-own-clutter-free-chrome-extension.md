@@ -31,4 +31,4 @@ I don’t see this as something I plan to support long term, but if you find som
 
 It didn’t take too long or require too much effort either; just some simple Javascript and an Ajax call to [this API](https://favqs.com/api).
 
-Check out Simplex here: <https://bit.ly/SIMPLEX>
+### **Check out Simplex here: <https://bit.ly/SIMPLEX>**

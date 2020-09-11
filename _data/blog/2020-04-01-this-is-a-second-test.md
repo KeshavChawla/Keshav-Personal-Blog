@@ -50,23 +50,6 @@ Some courses are very mechanical, that is, plug and chug. If you can find yourse
 
 I found CS 135 to be an incredibly interesting course, especially coming into it with prior coding knowledge. Racket, the language used in CS 135, is entirely based on functional programming. That means, no loops only recursion, no variables, and functions can be passed as first-class values. Racket is eye-opening and re-invented what I thought about programming.
 
-```scheme
-(define (my-factorial x)
-  (cond [(zero? x) 1]
-        ;; No loops so my-factorial has to be written with recursion 
-        [else (* x (my-factorial (sub1 x)))]))
-
-(define (my-multiplier x)
-  ;; The prefix notation of racket seems weird at first but is easy to understand
-  ;; Instead of (x * y) or (x + y) it becomes (* x y) and (+ x y)
-  (λ (y) (* x y)))
-  
-;; Functions as first-class values
-(define multiply-by-3 (my-multiplier 3))
-(check-expect (my-factorial 4) 24)
-(check-expect (multiply-by-3 (my-factorial 4)) 72)
-```
-
 Racket gets a bad reputation since it's alien-like syntax is nothing like Java or C, and it's functional programming conventions seem more of an annoyance than of value. Don't fall into this mindset! Racket is super powerful, and once you start using it, the syntax will become second nature.
 
 As an aside, diving into the world of [Racket macros](http://www.greghendershott.com/fear-of-macros/) allows you to extend the language yourself. There are a lot of great tutorials online that walk you through [how you can build your own language using Racket macros.](https://beautifulracket.com/) 

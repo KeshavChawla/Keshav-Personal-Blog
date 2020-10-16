@@ -5,7 +5,7 @@ date: 2020-10-16T01:31:43.117Z
 title: A collection of some of my favourite xkcd comics
 ---
 <center>
-\*\*All posts can be found at https://xkcd.com/\\[POST NUMBER]\*\*
+**All posts can be found at https://xkcd.com/ \[POST NUMBER]**
 
 ![1724: Proofs](https://imgs.xkcd.com/comics/proofs.png)
 

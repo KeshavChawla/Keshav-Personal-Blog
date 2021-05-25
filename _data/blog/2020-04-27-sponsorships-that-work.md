@@ -13,7 +13,7 @@ thumbnail: /assets/sponsorship-profile-pic.jpg
 
 I decided to write this article partly because on occasion I'll get a message from a friend asking how we got XYZ company to sponsor our event, but also because I want to add some value to some of the youth startups and organizations out there.
 
-I've raised sponsorship donations for numerous non-profit organizations and events: including [Toronto Youth Network](https://www.torontoyouthnetwork.com/), [InspireHacks 2018](https://www.facebook.com/events/1685228991773011/), [Model City Hall](https://modelcityhall.org/), [Network Nights August 2017, and Network Nights March 2018](https://www.facebook.com/networknights.ca/). In total, I have raised over $10,000+ worth of sponsorship in-kind donations, cash and venue space. Through the process, I have learned so much and fallen victim to many pitfalls.
+I've raised sponsorship donations for numerous non-profit organizations and events: including Toronto Youth Network, InspireHacks 2018, Model City Hall, Network Nights August 2017, and Network Nights March 2018. In total, I have raised over $10,000+ worth of sponsorship in-kind donations, cash and venue space. Through the process, I have learned so much and fallen victim to many pitfalls.
 
 Here are some tips I have learned from my experiences when it comes to obtaining sponsors for your organization or your event.
 
@@ -28,9 +28,7 @@ Here are some tips I have learned from my experiences when it comes to obtaining
    When I made my first attempt trying to find a venue sponsorship, I was always discouraged by the results. However, I was lucky enough to have numerous mentors like Lucas Chang and Salman Shahid that had gone through the process already. Lucas advised that I should focus on the overarching goal in mind and build off that. The guidance and advice that I received proved to be beneficial.
 4. **Have Visuals**
 
-   Have something that you can show to prospective sponsors and connections what you are doing. Sponsorship packets are great, event info packets are better, and previous event photos and videos are amazing. Having some tangible proof of your mission is magnitudes better than saying "I have this idea" in an email.
-
-   For some supporting help here is the event [info packet with photos and a video of our last event](https://drive.google.com/file/d/1wtkBdheIHteMovD2SRPQhL1yUszhD0BF/view?usp=sharing&usp=embed_facebook) that we used to get sponsors for Network Nights 2018. 
+   Have something that you can show to prospective sponsors and connections what you are doing. Sponsorship packets are great, event info packets are better, and previous event photos and videos are amazing. Having some tangible proof of your mission is magnitudes better than saying "I have this idea" in an email. 
 5. **Production Cost is your friend**
 
    Sometimes you may need supplies or equipment for your endeavour that you can't get for free or for a donation. In which case it is miles easier to ask a business to sell you the good or service for the price it costs them to produce. It's a win-win scenario, the company does not lose any money, and they still get some great brand recognition. This is also a great way to build strong corporate relationships, I have had a fantastic relationship with EmberPrint this way, they have been able to supply any equipment I need at production cost for longer than I can remember.
@@ -47,7 +45,7 @@ Here are some tips I have learned from my experiences when it comes to obtaining
    Sometimes you don't have much time to get donations. It might be tough because you aren't fully incorporated yet. I get it, I have been there. In that scenario, it might be easier to contact local retail stores rather than contact a corporate location for donations. Often, not always but often, corporate office will take a significant amount of time before deciding to sponsor an event or organization. Whereas, if you contact one retail location they may be more willing to help out. Personally, this strategy has proven effective when reaching RBC, Tim Hortons, Cineplex, Costco and so many more big-box retailers. On the other hand, if you have time on your hands, it might be worth the time and investment in contacting corporate offices, usually their donations will be more significant in value.
 9. **Find Opportunities**
 
-   There are so many different opportunities and chances to receive donations the question is whether or not you are looking for them. Ask friends, families, employers, acquaintances for help. Even asking other organizations or event organizers can prove really helpful. To help you get started, I have linked [Y2 Entrepreneurship Labs](http://y2labs.co/) Resources for Teens and Pre-Teens: <http://bit.ly/Y2LABS-RESOURCES>. It has helped me, and I hope it can help you too. Reach out to [Omicron](http://omcn.tech) too, their whole goal is to help youth startups and organizations receive the support they need.
+   There are so many different opportunities and chances to receive donations the question is whether or not you are looking for them. Ask friends, families, employers, acquaintances for help. Even asking other organizations or event organizers can prove really helpful.
 
    At the end of the day, building strong relationships and creating value for sponsors is what matters. Follow your mission and keep those two things in mind and you should be golden.
 
